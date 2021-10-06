@@ -1,6 +1,6 @@
 ## Gradle tutorial for complete beginners
 
-Accompanying repository to [Gradle tutorial for complete beginners](https://tomgregory.com/gradle-tutorial-for-complete-beginners/).
+Accompanying repository to *Gradle tutorial for complete beginners* ([article](https://tomgregory.com/gradle-tutorial-for-complete-beginners) | [video](https://youtu.be/-dtcEMLNmn0)).
 
 ## Building
 
