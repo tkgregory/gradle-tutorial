@@ -14,3 +14,6 @@ To build and test the application:
 Execute the built jar directly using the `java` command.
 
 `java -jar build/libs/gradle-tutorial.jar`
+
+## Need Gradle support?
+Contact me if you need help with Gradle at [tom@tomgregory.com](mailto:tom@tomgregory.com).
