@@ -2,6 +2,8 @@
 
 Accompanying repository to *Gradle tutorial for complete beginners* ([article](https://tomgregory.com/gradle-tutorial-for-complete-beginners) | [video](https://youtu.be/-dtcEMLNmn0)).
 
+[<img src="Gradle-tutorial-for-complete-beginners.png" width="500"/>](https://youtu.be/-dtcEMLNmn0)
+
 ## Building
 
 To build and test the application:
